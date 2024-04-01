@@ -12,4 +12,4 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada enqua
 
 ##  📧 Contato
 
-[![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halysson-melo-487936261/) [![Ícone do Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg)](mailto:halyjunio@gmail.com)
+[![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halysson-melo-487936261/) 
