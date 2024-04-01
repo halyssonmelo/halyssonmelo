@@ -1,8 +1,8 @@
 ### Bem-vindos ao meu GitHub! 👋
 
-Olá, meu nome é Halysson Melo, sou estudante de Analise e Desenvolvimento de Sistemas, meu GitHub é um espaço destinado a registrar meus projetos enquanto avanço em minha jornada de aprendizado no mundo Tech 👨‍💻. Meu perfil está em constante evolução, refletindo meu crescimento e desenvolvimento como estudante e profissional em ascensão. ✌📚
+Olá, meu nome é Halysson Melo, sou estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Una. Meu GitHub é um espaço recém-criado destinado a registrar meus projetos enquanto avanço em minha jornada de aprendizado no mundo Tech 👨‍💻. Estou em processo de migração de meus projetos para este espaço, logo, meu perfil esta em constante evolução, refletindo meu crescimento e desenvolvimento como estudante e profissional em ascensão. ✌📚
 
-Concentro meus estudos na exploração do vasto campo de Dados, especializando-me em linguagens de programação fundamentais para Data Science, como SQL e Python. Além disso, busco constante aprimoramento em ferramentas de Business Intelligence, como Tableau e Power BI. Estou sempre participando ativamente de cursos profissionalizantes em Análise de Dados, visando aprimorar minha capacidades, meu objetivo é registrar aqui todos os projetos aprendidos ao longo de minha formação. 😁 
+Concentro meus estudos na exploração do vasto campo de Dados, especializando-me em linguagens de programação fundamentais para Data Science, como SQL e Python. Além disso, busco constante aprimoramento em ferramentas de Business Intelligence, como Tableau e Power BI. Estou sempre participando ativamente de cursos profissionalizantes na area de Dados, visando aprimorar minha capacidades, meu objetivo é registrar aqui todos os projetos aprendidos ao longo de minha formação. 😁 
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada enquanto continuo a aprender e crescer neste emocionante campo da tecnologia! ❤💻
 
