@@ -9,3 +9,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada enqua
 ## 🖥 Tecnologias e Ferramentas
 
 ![Ícone do Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=green) ![Ícone do SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=python&logoColor=red) ![Ícone do TABLEAU](https://img.shields.io/badge/TABLEAU-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+
+##  📧 Contato
+
+[![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin)
