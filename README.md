@@ -10,7 +10,7 @@ Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada enqua
 
 ## 🖥 Tecnologias e Ferramentas
 
-![Ícone do Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=green) ![Ícone do SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=python&logoColor=red) ![Ícone do TABLEAU](https://img.shields.io/badge/TABLEAU-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Ícone do javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Ícone do Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=green) ![Ícone do SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=python&logoColor=red) ![Ícone do TABLEAU](https://img.shields.io/badge/TABLEAU-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Ícone do javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge) [![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 ##  📧 Contato
 
 [![Ícone do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halysson-melo-487936261/) 
